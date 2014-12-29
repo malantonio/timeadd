@@ -1,0 +1,27 @@
+{
+  "name": "timeadd",
+  "version": "1.0.0",
+  "description": "Total times",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malantonio/timeadd"
+  },
+  "keywords": [
+    "time",
+    "math"
+  ],
+  "author": "Adam Malantonio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malantonio/timeadd/issues"
+  },
+  "homepage": "https://github.com/malantonio/timeadd"
+}
