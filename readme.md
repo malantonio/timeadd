@@ -1,4 +1,5 @@
 # timeadd
+[![Build Status](https://travis-ci.org/malantonio/timeadd.svg)](https://travis-ci.org/malantonio/timeadd)
 
 get a total time from a number of individual times. formatted `<hours>`:`<minutes>`:`<seconds>`.
 
